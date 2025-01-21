@@ -1,1 +1,5 @@
-ECHO is on.
+Lib
+.env
+Scripts
+Include
+Pyvenv.cfg
